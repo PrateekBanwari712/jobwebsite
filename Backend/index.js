@@ -21,7 +21,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());
 const corsOptions = {
-    origin: 'https://job-website-w1j4.onrender.com',
+    origin: 'https://job-website-m190.onrender.com',
     credentials: true
 }
 app.use(cors(corsOptions))
