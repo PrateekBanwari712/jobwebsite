@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import Navbar from './shared/Navbar.jsx'
 import HeroSection from './HeroSection.jsx'
-import CategoryCarousel from './categoryCarousel.jsx'
+import CategoryCarousel from './CategoryCarousel.jsx'
 import LatestJob from './LatestJob.jsx'
 import Footer from './Footer.jsx'
 import useGetAllJobs from '@/hooks/useGetAllJobs'
