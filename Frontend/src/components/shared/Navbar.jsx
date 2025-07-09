@@ -35,7 +35,7 @@ const Navbar = () => {
             
             <div className='flex items-center justify-between mx-auto max-w-6xl h-16'>
                 
-                <Link to={"/"}><div><h1 className='text-2xl font-bold '>Job<span className='text-red-600'>Portal</span></h1>
+                <Link to={"/"}><div><h1 className='text-2xl font-bold '>Job<span className='text-red-600'>Website</span></h1>
                 </div>
                 </Link>
                 <div className='flex items-center gap-12'>
