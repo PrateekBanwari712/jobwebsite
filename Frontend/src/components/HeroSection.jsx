@@ -24,7 +24,7 @@ const HeroSection = () => {
                     <br />
                     Get Your
                     <span className='text-purple-600'> Dream Jobs</span></h1>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum </p>
+                <p>Because you deserve better than just a job.</p>
             </div>
             <div className='flex w-[40%] shadow-lg border border-gray-200 pl-3 rounded-full item-center gap-4 mx-auto'>
                 <input
