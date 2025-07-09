@@ -25,7 +25,7 @@ const corsOptions = {
     credentials: true
 }
 app.use(cors(corsOptions))
-let port = process.env.port || 3000;
+const port = process.env.port || 3000;
 
 //check
 // app.get('/api/v1/user/register', (req, res) => {
